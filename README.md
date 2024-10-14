@@ -2,8 +2,6 @@
 
 This repository contains my work and projects completed during the **HTML, CSS, and JavaScript for Web Developers** course, offered by **Johns Hopkins University** on **Coursera**. The course covers the fundamentals of front-end web development, including HTML, CSS, and JavaScript, focusing on building responsive and interactive web pages.
 
-![Course Completion certificate Link](https://github.com/s-naveenkumar-001/s-naveenkumar-001.github.io/blob/main/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Web_developers_Certificate.jpg)
-
 ## Course Overview
 
 This course is designed to teach you the foundational skills required to develop web pages using HTML for structure, CSS for styling, and JavaScript for interactivity. By the end of the course, students should be able to build fully functional and responsive websites.
@@ -15,6 +13,8 @@ This course is designed to teach you the foundational skills required to develop
 3. **JavaScript Essentials**: Adding dynamic behavior and interactivity to web pages.
 4. **Bootstrap**: Using the Bootstrap framework to create responsive layouts.
 5. **Front-End Web Development Tools**: Organizing and optimizing web development workflow.
+
+![Course Completion certificate Link](https://github.com/s-naveenkumar-001/s-naveenkumar-001.github.io/blob/main/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Web_developers_Certificate.jpg)
 
 ---
 
